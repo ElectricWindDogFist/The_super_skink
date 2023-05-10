@@ -1,0 +1,16 @@
+header {
+    font-family: 'Abril Fatface', cursive;
+    margin: 0;
+}
+header, p, html, body {
+    background-color: #f03535;
+}
+h1 {
+    text-align: center;
+}
+nav .navbar-brand {
+    font-size: 2rem;
+}
+nav {
+    border-bottom: 2px solid black;
+}
